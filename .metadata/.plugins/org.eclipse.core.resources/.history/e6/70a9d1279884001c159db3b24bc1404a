@@ -1,0 +1,5 @@
+package com.getarrays.employeemanager.services;
+
+public class EmployeeService {
+
+}

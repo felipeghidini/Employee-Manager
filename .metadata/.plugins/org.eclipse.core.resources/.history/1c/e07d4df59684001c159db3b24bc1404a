@@ -1,0 +1,5 @@
+package com.getarrays.employeemanager.repositories;
+
+public interface EmployeeRepository {
+
+}
